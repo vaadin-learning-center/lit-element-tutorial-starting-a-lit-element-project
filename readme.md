@@ -1,6 +1,6 @@
-# LitElement tutorial starter
+# LitElement tutorial
 
-This is the starting point for a tutorial series teaching you how to build an application with LitElement, Redux, Webpack, and Vaadin router.
+Code for the first part of a LitElement app tutorial.
 
 You can find the text and video tutorials here:
 TODO add link
