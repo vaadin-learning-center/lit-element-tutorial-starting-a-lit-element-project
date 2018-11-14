@@ -12,16 +12,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcushellberg/lit-app.git"
+    "url": "git+https://github.com/vaadin-learning-center/lit-element-tutorial-01-starting-a-lit-element-project.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Marcus Hellberg <marcus@vaadin.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/marcushellberg/lit-app/issues"
+    "url": "https://github.com/vaadin-learning-center/lit-element-tutorial-01-starting-a-lit-element-project/issues"
   },
-  "homepage": "https://github.com/marcushellberg/lit-app#readme",
+  "homepage": "https://github.com/vaadin-learning-center/lit-element-tutorial-01-starting-a-lit-element-project#readme",
   "devDependencies": {
+    "@babel/core": "^7.1.5",
+    "@babel/plugin-syntax-dynamic-import": "^7.0.0",
+    "@babel/preset-env": "^7.1.5",
+    "babel-loader": "^8.0.4",
+    "babel-preset-minify": "^0.5.0",
     "clean-webpack-plugin": "^0.1.19",
     "copy-webpack-plugin": "^4.5.2",
     "css-loader": "^1.0.0",
@@ -35,6 +40,7 @@
     "workbox-webpack-plugin": "^3.3.1"
   },
   "dependencies": {
-    "@polymer/lit-element": "^0.6.3"
+    "@polymer/lit-element": "^0.6.3",
+    "@webcomponents/webcomponentsjs": "^2.1.3"
   }
 }
