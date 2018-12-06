@@ -1,6 +1,6 @@
 # LitElement tutorial
 
-Code for the first part of a LitElement app tutorial.
+This tutorial shows you how to set up a basic LitElement project and create your first view.
 
-You can find the text and video tutorials here:
-TODO add link
+Tutorial: https://vaadin.com/tutorials/lit-element/starting-a-lit-element-project
+Video: https://youtu.be/UcCsGZDCw-Q
